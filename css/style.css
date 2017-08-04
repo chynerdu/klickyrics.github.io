@@ -228,10 +228,10 @@ body{
     font-size:18px;
       color:white;
 }
-@media only screen and (max-width:480px){
+@media only screen and (max-width:550px){
 
 #container1{
-  
+                  width:480px;
                 opacity: 1;
                 background:url(../images/bg3.png);
                 background-repeat:repeat;
@@ -245,7 +245,7 @@ body{
                  color:white;
 }
 #homepage1{
-                
+                    width:480px;
                 opacity: 0.8;
                 background:url(../images/bg4.png);
                   
@@ -259,7 +259,7 @@ body{
 
 #homepage{
      
-    
+       width:480px;
      position: absolute;
                 top: 0px;
                 left:0px;
@@ -280,7 +280,7 @@ body{
   
 }
  #gt_col ul{
-    margin-left:190px;
+    margin-left:200px;
    margin-top:0px;
      -webkit-filter:contrast(120%);
     font-size:12px;
